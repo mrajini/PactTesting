@@ -1,0 +1,4 @@
+rootProject.name = 'PactTesting'
+include 'consumerService'
+include 'providerService'
+
